@@ -1,0 +1,26 @@
+{
+    "Id": "null",
+    "MinimumInviteCountRoles":
+    [
+        {
+            "Id":"roleid",
+            "Name": "Member",
+            "Value": 0
+        },
+        {
+            "Id":"roleid",
+            "Name": "Price",
+            "Value": 5
+        },
+        {
+            "Id":"roleid",
+            "Name": "Normal Inviter",
+            "Value": 10
+        },
+        {
+            "Id":"roleid",
+            "Name": "GOD Inviter",
+            "Value": 20
+        }
+    ]
+}
